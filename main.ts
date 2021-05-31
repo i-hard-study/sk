@@ -1,3 +1,3 @@
-basic.forever(function () {
-    custom.dostuff(5, "Hello", MyEnum.One)
+basic.forever(function on_forever() {
+    
 })
